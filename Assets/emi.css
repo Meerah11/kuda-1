@@ -1,0 +1,68 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.big-div{
+    /* border: 2px solid red; */
+    width: 100%;
+    height: 800px;
+    background-size: cover;
+    background-position: center;
+}
+.text{
+    /* border: 2px solid red; */
+    width: 500px;
+    height: 700px;
+    color: white;
+    padding-top: 10%;
+    font-family: ;
+    padding-left: 20%;
+}
+.nav-bar{
+    /* border: 2px solid red; */
+    width: 98%;
+    height: 40px;
+    justify-content: space-between;
+    display: flex;
+    padding-left: 30px;
+    background-color: black;
+}
+.logo{
+    height: 10px;
+    margin: 15px;
+    color: red;
+}
+.text1{
+    color: white;
+    padding-right: 300px;
+}
+ul li{
+    list-style: none;
+    display: inline;
+}
+#text1 ul li{
+    margin: 12px;
+    
+}
+#nav-bar{
+    text-decoration: none;
+}
+.nav1{
+    border: 2px solid red;
+    width: 98%;
+    height: 40px;
+    justify-content: space-between;
+    display: flex;
+    padding-left: 30px;
+    background-color: bisque;
+}
+.text2{
+    color: red;
+    font-size: 20px;
+    margin-left:
+}
+.update{
+    color: black;
+    text-decoration: underline;
+}
+    

@@ -1,0 +1,64 @@
+body{
+    background-color: navy;
+    margin: 0;
+    font-family: Arial,  sans-serif;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:white;
+    padding: 15px 30px;
+    position: sticky;
+    top:5px ;
+}
+.logo{
+    color: black;
+    font-size: 24px;
+    font-weight: bold;
+}
+.nav-links{
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    
+}
+.nav-links li{
+    margin-left: 20px;
+}
+.nav-links a{
+    text-decoration: none;
+    color: black;
+    transition: color 0.3s;
+}
+.nav-links a:hover{
+    color: #f39c12;/*change color on hover*/
+}
+.welcome{
+    background-color: navy;
+    color: white;
+    padding-left: 40px;
+}
+.web{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+}
+.name{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+.hobby{
+    font-family: 'Times New Roman', Times, serif;
+}
+.image{
+    justify-content: center;
+    width: 700px;
+    height: 200px;
+    border: 1px solid red;
+    
+}
+.hobby{
+    display: flex;
+    align-items: center;
+}
